@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Robo Hub PGSD",
+  "description": "A comprehensive robotic club management portal with dashboard, activity tracking, learning materials, and member attendance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
